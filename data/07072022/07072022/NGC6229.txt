@@ -1,0 +1,7 @@
+NGC6229_01.fits
+NGC6229_02.fits
+NGC6229_03.fits
+NGC6229_04.fits
+NGC6229_05.fits
+NGC6229_06.fits
+NGC6229_07.fits

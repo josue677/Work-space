@@ -1,0 +1,7 @@
+sky_flat_r_03_001.fits
+sky_flat_r_03_002.fits
+sky_flat_r_03_003.fits
+sky_flat_r_03_004.fits
+sky_flat_r_03_005.fits
+sky_flat_r_03_006.fits
+sky_flat_r_03_007.fits

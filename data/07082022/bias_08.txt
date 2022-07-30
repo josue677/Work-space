@@ -1,0 +1,7 @@
+bias_001.fits
+bias_002.fits
+bias_003.fits
+bias_004.fits
+bias_005.fits
+bias_006.fits
+bias_007.fits

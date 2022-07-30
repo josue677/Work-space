@@ -1,0 +1,4 @@
+lintest_B_0_1.fits
+lintest_B_0_3.fits
+lintest_B_0_6.fits
+lintest_B_0_9.fits

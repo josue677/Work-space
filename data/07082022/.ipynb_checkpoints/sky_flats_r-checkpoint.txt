@@ -1,0 +1,7 @@
+skyflats_10sec_r_001.fits
+skyflats_10sec_r_002.fits
+skyflats_10sec_r_003.fits
+skyflats_10sec_r_004.fits
+skyflats_10sec_r_005.fits
+skyflats_10sec_r_006.fits
+skyflats_10sec_r_007.fits
