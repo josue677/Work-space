@@ -1,0 +1,4 @@
+domeflat_20s_V_0.fits
+domeflat_20s_V_01.fits
+domeflat_20s_V_02.fits
+domeflat_20s_V_03.fits

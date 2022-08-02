@@ -1,0 +1,8 @@
+lilsadalbary_B_001.fits
+lilsadalbary_B_002.fits
+lilsadalbary_B_003.fits
+lilsadalbary_B_004.fits
+lilsadalbary_B_30_002.fits
+lilsaldalbary_B_005.fits
+lilsaldalbary_B_006.fits
+lilsaldalbary_B_007.fits
