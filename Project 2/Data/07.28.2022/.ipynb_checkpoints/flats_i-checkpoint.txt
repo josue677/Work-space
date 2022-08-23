@@ -1,0 +1,10 @@
+flati_1.fits
+flati_10.fits
+flati_2.fits
+flati_3.fits
+flati_4.fits
+flati_5.fits
+flati_6.fits
+flati_7.fits
+flati_8.fits
+flati_9.fits

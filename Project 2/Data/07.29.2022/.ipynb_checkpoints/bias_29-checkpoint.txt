@@ -1,0 +1,5 @@
+bias_i_001.fits
+bias_i_002.fits
+bias_i_003.fits
+bias_i_004.fits
+bias_i_005.fits

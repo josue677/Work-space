@@ -1,0 +1,16 @@
+
+SS_Cyg_5s_i_2.fits
+SS_Cyg_5s_i_3.fits
+SS_Cyg_5s_i_4.fits
+SS_Cyg_5s_i_5.fits
+SS_Cyg_5s_i_6.fits
+SS_Cyg_5s_i_7.fits
+SS_Cyg_5s_i_8.fits
+SS_Cyg_5s_i_9.fits
+SS_Cyg_5s_i_10.fits
+SS_Cyg_5s_i_11.fits
+SS_Cyg_5s_i_12.fits
+SS_Cyg_5s_i_13.fits
+SS_Cyg_5s_i_14.fits
+SS_Cyg_5s_i_15.fits
+

@@ -1,0 +1,7 @@
+SS_Cyg_5s_i_1.fits
+SS_Cyg_5s_i_2.fits
+SS_Cyg_5s_i_3.fits
+SS_Cyg_5s_i_4.fits
+SS_Cyg_5s_i_5.fits
+SS_Cyg_5s_i_6.fits
+SS_Cyg_5s_i_7.fits

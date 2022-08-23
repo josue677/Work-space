@@ -1,0 +1,7 @@
+domeflat_1s_i_001.fits
+domeflat_1s_i_002.fits
+domeflat_1s_i_003.fits
+domeflat_1s_i_004.fits
+domeflat_1s_i_005.fits
+domeflat_1s_i_006.fits
+domeflat_1s_i_007.fits

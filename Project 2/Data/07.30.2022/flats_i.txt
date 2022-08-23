@@ -1,0 +1,5 @@
+skyflat_i_5s_001.fits
+skyflat_i_5s_002.fits
+skyflat_i_5s_003.fits
+skyflat_i_5s_004.fits
+skyflat_i_5s_005.fits

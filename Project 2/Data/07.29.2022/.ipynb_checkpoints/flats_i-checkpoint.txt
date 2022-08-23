@@ -1,0 +1,14 @@
+sky_flat_3s_i.fits
+sky_flat_3s_i_001.fits
+sky_flat_3s_i_002.fits
+sky_flat_3s_i_003.fits
+sky_flat_3s_i_004.fits
+sky_flat_3s_i_005.fits
+sky_flat_3s_i_006.fits
+sky_flat_3s_i_007.fits
+sky_flat_3s_i_008.fits
+sky_flat_3s_i_009.fits
+sky_flat_3s_i_010.fits
+sky_flat_3s_i_011.fits
+sky_flat_3s_i_012.fits
+sky_flat_3s_i_013.fits

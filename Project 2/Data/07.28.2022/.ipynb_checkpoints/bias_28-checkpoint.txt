@@ -1,0 +1,3 @@
+bias1.fits
+bias2.fits
+bias3.fits

@@ -1,0 +1,11 @@
+flatB_1.fits
+flatB1.fits
+flatB10.fits
+flatB2.fits
+flatB3.fits
+flatB4.fits
+flatB5.fits
+flatB6.fits
+flatB7.fits
+flatB8.fits
+flatB9.fits
